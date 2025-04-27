@@ -22,4 +22,5 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers[torch]>=4.51.3",
     "wavemix>=0.2.4",
+    "zoobot[pytorch]>=2.0.1",
 ]
