@@ -1,3 +1,8 @@
 .DS_Store
 .venv
 lightning_logs
+trainer_output
+wavemix_cmobined
+zoobot_convnext_nano_out
+zoobot_convnext_tiny_out
+sgd_finetune_stage2_output
